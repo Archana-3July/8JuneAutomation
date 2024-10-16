@@ -1,0 +1,30 @@
+2024-10-11 12:54:14,205 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-11 12:54:15,757 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-11 12:54:16,765 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-11 12:54:20,047 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-11 12:54:20,113 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-11 12:54:22,377 - 8th_June-CoverFox -INFO - Entering Pin Code
+2024-10-11 12:54:22,548 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-11 12:54:22,642 - 8th_June-CoverFox -INFO - Clicking on Continue Button
+2024-10-11 12:54:25,801 - 8th_June-CoverFox -INFO - Validating results
+2024-10-11 12:54:27,013 - 8th_June-CoverFox -INFO - Closing Browser
+2024-10-11 14:39:01,105 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-11 14:39:03,030 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-11 14:39:04,146 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-11 14:39:08,836 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-11 14:39:08,928 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-11 14:39:11,179 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-10-11 14:39:11,423 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-11 14:39:11,548 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-10-11 14:39:15,131 - 8th_June-CoverFox -INFO - Validating results
+2024-10-11 14:39:16,020 - 8th_June-CoverFox -INFO - Closing Browser
+2024-10-13 20:10:41,691 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-13 20:10:44,440 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-13 20:10:45,439 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-13 20:10:48,280 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-13 20:10:48,365 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-13 20:10:50,643 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-10-13 20:10:50,856 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-13 20:10:50,976 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-10-13 20:10:54,178 - 8th_June-CoverFox -INFO - Validating results
+2024-10-13 20:10:54,591 - 8th_June-CoverFox -INFO - Closing Browser
