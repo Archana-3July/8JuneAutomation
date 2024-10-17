@@ -77,6 +77,7 @@ public class TC1234_CoverFox_ValidateBannerCount extends Base
 	  logger.info("Validating results");
 	  Assert.assertEquals(textCount,textBanner,"text count not matching with banner text");
 	  //Assert.fail();
+	  Reporter.log("This is new branch", true);
   }
   //logout from application
   //close browser/close application
