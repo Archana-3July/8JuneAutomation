@@ -28,3 +28,54 @@
 2024-10-13 20:10:50,976 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
 2024-10-13 20:10:54,178 - 8th_June-CoverFox -INFO - Validating results
 2024-10-13 20:10:54,591 - 8th_June-CoverFox -INFO - Closing Browser
+2024-10-17 22:54:00,100 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-17 22:54:01,408 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-17 22:54:01,933 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-17 22:54:05,568 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-17 22:54:05,643 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-17 22:54:07,905 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-10-17 22:54:08,139 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-17 22:54:08,247 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-10-17 22:54:11,338 - 8th_June-CoverFox -INFO - Validating results
+2024-10-17 22:54:11,614 - 8th_June-CoverFox -INFO - Closing Browser
+2024-10-19 11:22:17,189 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-19 11:22:21,519 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-19 11:22:22,548 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-19 11:22:42,378 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-19 11:22:43,003 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-19 11:22:45,518 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-10-19 11:22:46,402 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-19 11:22:46,560 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-10-19 11:22:54,998 - 8th_June-CoverFox -INFO - Closing Browser
+2024-10-19 11:26:03,113 - 8th_June-CoverFox -INFO - Opening Browser
+2024-10-19 11:26:09,166 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-10-19 11:26:11,008 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-19 11:26:17,727 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-10-19 11:26:17,963 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-10-19 11:26:21,476 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-10-19 11:26:21,689 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-10-19 11:26:21,822 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-10-19 11:26:24,962 - 8th_June-CoverFox -INFO - Validating results
+2024-10-19 11:26:27,601 - 8th_June-CoverFox -INFO - Closing Browser
+2024-11-10 23:22:36,085 - 8th_June-CoverFox -INFO - Opening Browser
+2024-11-10 23:22:37,587 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-11-10 23:22:38,117 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:22:42,233 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-11-10 23:22:42,317 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:22:44,582 - 8th_June-CoverFox -WARN - Pin Code is required
+2024-11-10 23:22:44,778 - 8th_June-CoverFox -INFO - Entering Mobile Number
+2024-11-10 23:22:44,876 - 8th_June-CoverFox -ERROR - Wrong details,please check the details
+2024-11-10 23:22:48,025 - 8th_June-CoverFox -INFO - Validating results
+2024-11-10 23:22:48,044 - 8th_June-CoverFox -INFO - Closing Browser
+2024-11-10 23:23:22,137 - 8th_June-CoverFox -INFO - Opening Browser
+2024-11-10 23:23:24,018 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-11-10 23:23:26,380 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:23:30,027 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-11-10 23:23:30,118 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:23:32,150 - 8th_June-CoverFox -WARN - Enter valid Mobile Number
+2024-11-10 23:25:06,160 - 8th_June-CoverFox -INFO - Opening Browser
+2024-11-10 23:25:06,855 - 8th_June-CoverFox -INFO - Clicking on Gender Button
+2024-11-10 23:25:09,409 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:25:17,455 - 8th_June-CoverFox -INFO - Handling age Drop Down
+2024-11-10 23:25:17,568 - 8th_June-CoverFox -INFO - Clicking on Next Button
+2024-11-10 23:25:19,599 - 8th_June-CoverFox -WARN - Enter valid Mobile Number

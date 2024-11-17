@@ -1,3 +1,4 @@
+
 package coverFoxBasic;
 
 import java.io.IOException;
